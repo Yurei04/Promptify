@@ -1,0 +1,29 @@
+* {
+    scroll-behavior: smooth;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.code-section {
+    display: block;
+}
+
+.research-section {
+    display: none;
+}
+
+.general-section {
+    display: none;
+}
+
+
+
